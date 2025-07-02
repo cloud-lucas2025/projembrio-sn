@@ -243,7 +243,7 @@ export default function EmbriologiaSistemaNervoso() {
           <div className="flex items-center gap-3">
             <Brain className="h-8 w-8 text-orange-600" />
             <h1 className="text-3xl font-bold text-gray-900">
-              Embriologia Simplificada - Desenvolvimento do Sistema Nervoso
+              Embriologia Simplificada - Desenvolvimento Neural
             </h1>
           </div>
         </div>
@@ -262,7 +262,7 @@ export default function EmbriologiaSistemaNervoso() {
             Bem-vindos, futuros Engenheiros Biomédicos!
           </h2>
           <p className="text-xl md:text-2xl text-white/95 leading-relaxed drop-shadow-md">
-            O desenvolvimento do sistema nervoso é um dos processos mais complexos e essenciais da embriologia humana. Durante as primeiras semanas de gestação, estruturas como o cérebro e a medula espinhal se formam por meio de processos precisos de diferenciação celular.
+            O desenvolvimento neural é um dos processos mais complexos e essenciais da embriologia humana. Durante as primeiras semanas de gestação, estruturas como o cérebro e a medula espinhal se formam por meio de processos precisos de diferenciação celular.
           </p>
         </div>
       </section>
